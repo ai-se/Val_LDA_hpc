@@ -5,6 +5,7 @@ from time import time
 import numpy as np
 from pdb import set_trace
 from val_lda import Cross_exp
+from stability import jaccard
 
 
 class Model(object):
@@ -65,11 +66,30 @@ class LDA_tune(Model):
         self.any()
 
     def getobj(self):
+        from mpi4py import MPI
+        comm = MPI.COMM_WORLD
+        rank = comm.Get_rank()
+        proc_num = 10
+
         if self.dec==self.lastdec:
             return self.obj
         self.dec[0]=int(self.dec[0])
         self.model=Cross_exp([1,self.dec[0],1,1,self.dec[1],self.dec[2]])
         self.model.load(self.file)
-        self.obj = [self.model.stability_score_local(self.sequence,self.term)]
+        self.model.pre_lda()
+        for i in xrange(proc_num-1):
+            comm.send(self, dest=i+1)
+        era = 0
+        topics=[]
+        while True:
+            i = era * proc_num + rank
+            if i + 1 > len(self.sequence):
+                break
+            topics.extend(self.model.stability_score(self.sequence[i]))
+            era=era+1
+        for i in range(proc_num - 1):
+            tmp = comm.recv(source=i + 1)
+            topics.extend(tmp)
+        self.obj = [jaccard(self.dec[0],topics,self.term)]
         return self.obj
 

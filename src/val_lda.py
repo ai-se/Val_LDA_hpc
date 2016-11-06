@@ -87,63 +87,21 @@ class Cross_exp(object):
             comm.send(result,dest=0)
 
 
-
-
-    def stability_score(self, sequence=[],term=6):
-        from stability import jaccard
-        from mpi4py import MPI
-
-        comm = MPI.COMM_WORLD
-        rank = comm.Get_rank()
-        proc_num = 10
-
+    def pre_lda(self):
         tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False)
-        data2 = tfer.fit_transform(self.csr_mat)
-        data2 = data2.astype(np.int32)
-        model = lda.LDA(n_topics=self.opt[1], n_iter=200, alpha=self.opt[4], eta=self.opt[5])
+        self.csr_mat = tfer.fit_transform(self.csr_mat)
+        self.csr_mat = self.csr_mat.astype(np.int32)
 
-        topics=[]
-        era=0
-        while True:
-            i=era*proc_num+rank
-            if i+1 > len(sequence):
-                break
-            data = data2[sequence[i]]
-            model.fit(data)
-            topic_word = model.topic_word_
-            for topic in topic_word:
-                topics.append(np.argsort(topic)[::-1][:9])
-
-            era+=1
-        if rank == 0:
-            for i in range(proc_num-1):
-                tmp=comm.recv(source=i+1)
-                topics.extend(tmp)
-            for i in range(proc_num-1):
-                comm.send(topics,source=i+1)
-        else:
-            comm.send(topics,dest=0)
-            topics = comm.recv(source=0)
-        score = jaccard(self.opt[1],topics,term)
-        return score
-
-
-
-    def stability_score_local(self, sequence=[],term=6):
-        from stability import jaccard
-        tfer = TfidfVectorizer(lowercase=True, stop_words="english", norm=None, use_idf=False)
-        data2 = tfer.fit_transform(self.csr_mat)
-        data2 = data2.astype(np.int32)
+    def stability_score(self, sequence):
         model = lda.LDA(n_topics=self.opt[1], n_iter=200, alpha=self.opt[4], eta=self.opt[5])
         topics=[]
-        for seq in sequence:
-            data = data2[seq]
-            model.fit(data)
-            topic_word = model.topic_word_
-            for topic in topic_word:
-                topics.append(np.argsort(topic)[::-1][:9])
+        data = self.csr_mat[sequence]
+        model.fit(data)
+        topic_word = model.topic_word_
+        for topic in topic_word:
+            topics.append(np.argsort(topic)[::-1][:9])
+        return topics
 
-        return jaccard(self.opt[1],topics,term)
 
 
     def load(self,filepath):
