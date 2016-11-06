@@ -1,0 +1,40 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2c1-13>
+Subject: Job 613780: <mpiexec -n 5 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp android> Exited
+
+Job <mpiexec -n 5 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp android> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <4*n2c1-13>, in queue <long>, as user <zyu9> in cluster <henry2>.
+                            <1*n2c1-5>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA/src> was used as the working directory.
+Started at Sat Nov  5 19:57:57 2016
+Results reported at Sat Nov  5 20:47:39 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 5 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp android
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with signal termination: Killed.
+
+Resource usage summary:
+
+    CPU time   :      2.69 sec.
+    Max Memory :      8185 MB
+    Max Swap   :     12336 MB
+
+    Max Processes  :        12
+    Max Threads    :        68
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/android.err.613780> for stderr output of this job.
+

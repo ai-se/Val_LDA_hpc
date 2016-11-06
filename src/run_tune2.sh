@@ -1,0 +1,7 @@
+rm ./err/*
+rm ./out/*
+
+for VAR in academia apple anime android scifi SE0 SE1 SE2 SE3 SE4
+do
+  bsub -W 12000 -n 10 -o ./out/$VAR.out.%J -e ./err/$VAR.err.%J /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp $VAR
+done

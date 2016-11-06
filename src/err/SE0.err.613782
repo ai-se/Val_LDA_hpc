@@ -1,0 +1,1102 @@
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 97
+INFO:lda:n_iter: 200
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 104
+INFO:lda:n_iter: 200
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 14
+INFO:lda:n_iter: 200
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 116
+INFO:lda:n_iter: 200
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 34
+INFO:lda:n_iter: 200
+INFO:lda:<0> log likelihood: -21422543
+INFO:lda:<0> log likelihood: -17252778
+INFO:lda:<0> log likelihood: -19412802
+INFO:lda:<0> log likelihood: -22347374
+INFO:lda:<0> log likelihood: -23579010
+INFO:lda:<10> log likelihood: -14824617
+INFO:lda:<20> log likelihood: -13892817
+INFO:lda:<10> log likelihood: -15692902
+INFO:lda:<30> log likelihood: -13783186
+INFO:lda:<40> log likelihood: -13748764
+INFO:lda:<20> log likelihood: -14389994
+INFO:lda:<50> log likelihood: -13744763
+INFO:lda:<60> log likelihood: -13737201
+INFO:lda:<10> log likelihood: -18539563
+INFO:lda:<10> log likelihood: -14800010
+INFO:lda:<30> log likelihood: -14222528
+INFO:lda:<70> log likelihood: -13740778
+INFO:lda:<10> log likelihood: -17044825
+INFO:lda:<80> log likelihood: -13736336
+INFO:lda:<90> log likelihood: -13732668
+INFO:lda:<40> log likelihood: -14149241
+INFO:lda:<100> log likelihood: -13732987
+INFO:lda:<110> log likelihood: -13731177
+INFO:lda:<50> log likelihood: -14101091
+INFO:lda:<120> log likelihood: -13729329
+INFO:lda:<20> log likelihood: -13768326
+INFO:lda:<20> log likelihood: -16689475
+INFO:lda:<130> log likelihood: -13730307
+INFO:lda:<60> log likelihood: -14062163
+INFO:lda:<140> log likelihood: -13730555
+INFO:lda:<150> log likelihood: -13731410
+INFO:lda:<20> log likelihood: -15444899
+INFO:lda:<70> log likelihood: -14032877
+INFO:lda:<160> log likelihood: -13728079
+INFO:lda:<170> log likelihood: -13731224
+INFO:lda:<80> log likelihood: -14013313
+INFO:lda:<180> log likelihood: -13729183
+INFO:lda:<30> log likelihood: -13412657
+INFO:lda:<190> log likelihood: -13727994
+INFO:lda:<30> log likelihood: -16431971
+INFO:lda:<199> log likelihood: -13724576
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 14
+INFO:lda:n_iter: 200
+INFO:lda:<90> log likelihood: -13994219
+INFO:lda:<100> log likelihood: -13984258
+INFO:lda:<30> log likelihood: -15355811
+INFO:lda:<110> log likelihood: -13976653
+INFO:lda:<40> log likelihood: -13263285
+INFO:lda:<40> log likelihood: -16371018
+INFO:lda:<120> log likelihood: -13973511
+INFO:lda:<0> log likelihood: -17252778
+INFO:lda:<130> log likelihood: -13969557
+INFO:lda:<10> log likelihood: -14690210
+INFO:lda:<40> log likelihood: -15309256
+INFO:lda:<50> log likelihood: -13189257
+INFO:lda:<20> log likelihood: -13920103
+INFO:lda:<140> log likelihood: -13972638
+INFO:lda:<30> log likelihood: -13813880
+INFO:lda:<50> log likelihood: -16339438
+INFO:lda:<40> log likelihood: -13777888
+INFO:lda:<150> log likelihood: -13966741
+INFO:lda:<50> log likelihood: -13764130
+INFO:lda:<60> log likelihood: -13758153
+INFO:lda:<160> log likelihood: -13968112
+INFO:lda:<70> log likelihood: -13754658
+INFO:lda:<60> log likelihood: -13127752
+INFO:lda:<80> log likelihood: -13751170
+INFO:lda:<50> log likelihood: -15265993
+INFO:lda:<170> log likelihood: -13966594
+INFO:lda:<90> log likelihood: -13750619
+INFO:lda:<60> log likelihood: -16329328
+INFO:lda:<100> log likelihood: -13750940
+INFO:lda:<110> log likelihood: -13747339
+INFO:lda:<180> log likelihood: -13964658
+INFO:lda:<120> log likelihood: -13749929
+INFO:lda:<130> log likelihood: -13751449
+INFO:lda:<190> log likelihood: -13963991
+INFO:lda:<70> log likelihood: -13086783
+INFO:lda:<140> log likelihood: -13748884
+INFO:lda:<150> log likelihood: -13748617
+INFO:lda:<199> log likelihood: -13966136
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 34
+INFO:lda:n_iter: 200
+INFO:lda:<160> log likelihood: -13748378
+INFO:lda:<70> log likelihood: -16325377
+INFO:lda:<60> log likelihood: -15237511
+INFO:lda:<170> log likelihood: -13749430
+INFO:lda:<180> log likelihood: -13750035
+INFO:lda:<190> log likelihood: -13748839
+INFO:lda:<80> log likelihood: -13048978
+INFO:lda:<199> log likelihood: -13748016
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 14
+INFO:lda:n_iter: 200
+INFO:lda:<80> log likelihood: -16316053
+INFO:lda:<70> log likelihood: -15203535
+INFO:lda:<0> log likelihood: -19412802
+INFO:lda:<90> log likelihood: -13018354
+INFO:lda:<10> log likelihood: -15687532
+INFO:lda:<0> log likelihood: -17252778
+INFO:lda:<20> log likelihood: -14200436
+INFO:lda:<90> log likelihood: -16310849
+INFO:lda:<10> log likelihood: -14641024
+INFO:lda:<80> log likelihood: -15160704
+INFO:lda:<20> log likelihood: -13977170
+INFO:lda:<30> log likelihood: -14052470
+INFO:lda:<30> log likelihood: -13864317
+INFO:lda:<100> log likelihood: -12991501
+INFO:lda:<40> log likelihood: -13822414
+INFO:lda:<40> log likelihood: -14008646
+INFO:lda:<50> log likelihood: -13796860
+INFO:lda:<60> log likelihood: -13773562
+INFO:lda:<100> log likelihood: -16310005
+INFO:lda:<50> log likelihood: -13983626
+INFO:lda:<70> log likelihood: -13761100
+INFO:lda:<80> log likelihood: -13759506
+INFO:lda:<60> log likelihood: -13971659
+INFO:lda:<90> log likelihood: -13757582
+INFO:lda:<110> log likelihood: -12970088
+INFO:lda:<90> log likelihood: -15114740
+INFO:lda:<100> log likelihood: -13752993
+INFO:lda:<110> log likelihood: -13751246
+INFO:lda:<70> log likelihood: -13960890
+INFO:lda:<120> log likelihood: -13750329
+INFO:lda:<110> log likelihood: -16309447
+INFO:lda:<130> log likelihood: -13748145
+INFO:lda:<80> log likelihood: -13951050
+INFO:lda:<140> log likelihood: -13745495
+INFO:lda:<120> log likelihood: -12949167
+INFO:lda:<150> log likelihood: -13737067
+INFO:lda:<90> log likelihood: -13944878
+INFO:lda:<160> log likelihood: -13742338
+INFO:lda:<100> log likelihood: -15091960
+INFO:lda:<170> log likelihood: -13739701
+INFO:lda:<100> log likelihood: -13940910
+INFO:lda:<180> log likelihood: -13733466
+INFO:lda:<190> log likelihood: -13733319
+INFO:lda:<120> log likelihood: -16311727
+INFO:lda:<110> log likelihood: -13935807
+INFO:lda:<199> log likelihood: -13728355
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 14
+INFO:lda:n_iter: 200
+INFO:lda:<130> log likelihood: -12933426
+INFO:lda:<120> log likelihood: -13936182
+INFO:lda:<110> log likelihood: -15075223
+INFO:lda:<130> log likelihood: -13933809
+INFO:lda:<130> log likelihood: -16304239
+INFO:lda:<140> log likelihood: -13933902
+INFO:lda:<140> log likelihood: -12923926
+INFO:lda:<150> log likelihood: -13933804
+INFO:lda:<0> log likelihood: -17252778
+INFO:lda:<10> log likelihood: -14571641
+INFO:lda:<160> log likelihood: -13930373
+INFO:lda:<20> log likelihood: -13915556
+INFO:lda:<120> log likelihood: -15078905
+INFO:lda:<30> log likelihood: -13825485
+INFO:lda:<140> log likelihood: -16308693
+INFO:lda:<170> log likelihood: -13936346
+INFO:lda:<150> log likelihood: -12909729
+INFO:lda:<40> log likelihood: -13796353
+INFO:lda:<50> log likelihood: -13775904
+INFO:lda:<60> log likelihood: -13767881
+INFO:lda:<180> log likelihood: -13933151
+INFO:lda:<70> log likelihood: -13762808
+INFO:lda:<80> log likelihood: -13751781
+INFO:lda:<190> log likelihood: -13932492
+INFO:lda:<90> log likelihood: -13746977
+INFO:lda:<150> log likelihood: -16306006
+INFO:lda:<130> log likelihood: -15078345
+INFO:lda:<160> log likelihood: -12902660
+INFO:lda:<100> log likelihood: -13747149
+INFO:lda:<199> log likelihood: -13932274
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 34
+INFO:lda:n_iter: 200
+INFO:lda:<110> log likelihood: -13742457
+INFO:lda:<120> log likelihood: -13740848
+INFO:lda:<130> log likelihood: -13747540
+INFO:lda:<140> log likelihood: -13742526
+INFO:lda:<150> log likelihood: -13742520
+INFO:lda:<170> log likelihood: -12896179
+INFO:lda:<160> log likelihood: -13737156
+INFO:lda:<160> log likelihood: -16311011
+INFO:lda:<170> log likelihood: -13738079
+INFO:lda:<140> log likelihood: -15072182
+INFO:lda:<180> log likelihood: -13736975
+INFO:lda:<190> log likelihood: -13738506
+INFO:lda:<0> log likelihood: -19412802
+INFO:lda:<199> log likelihood: -13739482
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 14
+INFO:lda:n_iter: 200
+INFO:lda:<10> log likelihood: -15471750
+INFO:lda:<180> log likelihood: -12888692
+INFO:lda:<170> log likelihood: -16300437
+INFO:lda:<20> log likelihood: -14219535
+INFO:lda:<150> log likelihood: -15078454
+INFO:lda:<30> log likelihood: -14097911
+INFO:lda:<40> log likelihood: -14034986
+INFO:lda:<190> log likelihood: -12881437
+INFO:lda:<0> log likelihood: -17252778
+INFO:lda:<180> log likelihood: -16306540
+INFO:lda:<10> log likelihood: -14553706
+INFO:lda:<50> log likelihood: -14001691
+INFO:lda:<20> log likelihood: -13929439
+INFO:lda:<30> log likelihood: -13819355
+INFO:lda:<160> log likelihood: -15073172
+INFO:lda:<60> log likelihood: -13981189
+INFO:lda:<40> log likelihood: -13769380
+INFO:lda:<50> log likelihood: -13749453
+INFO:lda:<199> log likelihood: -12877619
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 97
+INFO:lda:n_iter: 200
+INFO:lda:<70> log likelihood: -13968334
+INFO:lda:<60> log likelihood: -13735862
+INFO:lda:<190> log likelihood: -16299717
+INFO:lda:<70> log likelihood: -13731191
+INFO:lda:<80> log likelihood: -13960278
+INFO:lda:<80> log likelihood: -13724461
+INFO:lda:<90> log likelihood: -13721180
+INFO:lda:<100> log likelihood: -13716403
+INFO:lda:<90> log likelihood: -13946458
+INFO:lda:<170> log likelihood: -15076554
+INFO:lda:<110> log likelihood: -13716801
+INFO:lda:<120> log likelihood: -13714630
+INFO:lda:<100> log likelihood: -13943000
+INFO:lda:<199> log likelihood: -16300590
+INFO:lda:<130> log likelihood: -13714285
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 104
+INFO:lda:n_iter: 200
+INFO:lda:<140> log likelihood: -13713609
+INFO:lda:<110> log likelihood: -13940412
+INFO:lda:<0> log likelihood: -23579010
+INFO:lda:<150> log likelihood: -13714504
+INFO:lda:<160> log likelihood: -13711771
+INFO:lda:<120> log likelihood: -13937108
+INFO:lda:<170> log likelihood: -13713404
+INFO:lda:<180> log likelihood: -13714685
+INFO:lda:<180> log likelihood: -15075469
+INFO:lda:<130> log likelihood: -13936195
+INFO:lda:<190> log likelihood: -13713967
+INFO:lda:<199> log likelihood: -13714433
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 14
+INFO:lda:n_iter: 200
+INFO:lda:<10> log likelihood: -14806174
+INFO:lda:<140> log likelihood: -13933523
+INFO:lda:<0> log likelihood: -21422543
+INFO:lda:<150> log likelihood: -13936961
+INFO:lda:<160> log likelihood: -13931158
+INFO:lda:<190> log likelihood: -15071942
+INFO:lda:<20> log likelihood: -13777830
+INFO:lda:<170> log likelihood: -13927690
+INFO:lda:<10> log likelihood: -18546599
+INFO:lda:<0> log likelihood: -17252778
+INFO:lda:<180> log likelihood: -13931260
+INFO:lda:<10> log likelihood: -14623967
+INFO:lda:<20> log likelihood: -13921310
+INFO:lda:<190> log likelihood: -13927916
+INFO:lda:<30> log likelihood: -13823344
+INFO:lda:<40> log likelihood: -13784481
+INFO:lda:<30> log likelihood: -13430658
+INFO:lda:<199> log likelihood: -15073963
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 116
+INFO:lda:n_iter: 200
+INFO:lda:<50> log likelihood: -13767806
+INFO:lda:<199> log likelihood: -13931697
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 34
+INFO:lda:n_iter: 200
+INFO:lda:<20> log likelihood: -16628808
+INFO:lda:<60> log likelihood: -13763362
+INFO:lda:<70> log likelihood: -13755989
+INFO:lda:<80> log likelihood: -13756445
+INFO:lda:<90> log likelihood: -13754485
+INFO:lda:<100> log likelihood: -13752874
+INFO:lda:<40> log likelihood: -13283954
+INFO:lda:<110> log likelihood: -13755269
+INFO:lda:<120> log likelihood: -13751002
+INFO:lda:<30> log likelihood: -16362602
+INFO:lda:<130> log likelihood: -13756395
+INFO:lda:<0> log likelihood: -22347374
+INFO:lda:<140> log likelihood: -13749955
+INFO:lda:<0> log likelihood: -19412802
+INFO:lda:<150> log likelihood: -13752131
+INFO:lda:<160> log likelihood: -13748337
+INFO:lda:<10> log likelihood: -15806059
+INFO:lda:<50> log likelihood: -13188593
+INFO:lda:<170> log likelihood: -13747483
+INFO:lda:<180> log likelihood: -13749779
+INFO:lda:<20> log likelihood: -14369924
+INFO:lda:<190> log likelihood: -13749338
+INFO:lda:<40> log likelihood: -16327207
+INFO:lda:<199> log likelihood: -13750033
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 14
+INFO:lda:n_iter: 200
+INFO:lda:<30> log likelihood: -14102891
+INFO:lda:<10> log likelihood: -16975235
+INFO:lda:<60> log likelihood: -13129068
+INFO:lda:<40> log likelihood: -14042922
+INFO:lda:<50> log likelihood: -16314641
+INFO:lda:<50> log likelihood: -14025893
+INFO:lda:<60> log likelihood: -14019556
+INFO:lda:<70> log likelihood: -13087426
+INFO:lda:<0> log likelihood: -17252778
+INFO:lda:<20> log likelihood: -15245992
+INFO:lda:<10> log likelihood: -14692666
+INFO:lda:<70> log likelihood: -14015657
+INFO:lda:<20> log likelihood: -13961202
+INFO:lda:<60> log likelihood: -16298075
+INFO:lda:<30> log likelihood: -13839307
+INFO:lda:<80> log likelihood: -14009888
+INFO:lda:<40> log likelihood: -13805358
+INFO:lda:<50> log likelihood: -13789511
+INFO:lda:<90> log likelihood: -14004964
+INFO:lda:<80> log likelihood: -13054097
+INFO:lda:<60> log likelihood: -13774518
+INFO:lda:<70> log likelihood: -13765653
+INFO:lda:<30> log likelihood: -15118657
+INFO:lda:<100> log likelihood: -14002851
+INFO:lda:<80> log likelihood: -13751354
+INFO:lda:<90> log likelihood: -13744093
+INFO:lda:<70> log likelihood: -16300600
+INFO:lda:<100> log likelihood: -13747312
+INFO:lda:<110> log likelihood: -13998689
+INFO:lda:<110> log likelihood: -13747422
+INFO:lda:<90> log likelihood: -13032533
+INFO:lda:<120> log likelihood: -13745041
+INFO:lda:<120> log likelihood: -14000062
+INFO:lda:<130> log likelihood: -13744463
+INFO:lda:<140> log likelihood: -13740244
+INFO:lda:<130> log likelihood: -13995717
+INFO:lda:<150> log likelihood: -13742361
+INFO:lda:<40> log likelihood: -15090949
+INFO:lda:<80> log likelihood: -16290529
+INFO:lda:<160> log likelihood: -13743903
+INFO:lda:<170> log likelihood: -13742499
+INFO:lda:<140> log likelihood: -13991681
+INFO:lda:<100> log likelihood: -13018055
+INFO:lda:<180> log likelihood: -13744656
+INFO:lda:<190> log likelihood: -13743225
+INFO:lda:<150> log likelihood: -13986413
+INFO:lda:<199> log likelihood: -13743923
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 14
+INFO:lda:n_iter: 200
+INFO:lda:<160> log likelihood: -13976932
+INFO:lda:<90> log likelihood: -16293658
+INFO:lda:<50> log likelihood: -15088036
+INFO:lda:<110> log likelihood: -13001939
+INFO:lda:<170> log likelihood: -13979182
+INFO:lda:<180> log likelihood: -13971201
+INFO:lda:<190> log likelihood: -13963880
+INFO:lda:<100> log likelihood: -16291208
+INFO:lda:<0> log likelihood: -17252778
+INFO:lda:<120> log likelihood: -12988359
+INFO:lda:<10> log likelihood: -14713801
+INFO:lda:<60> log likelihood: -15080785
+INFO:lda:<199> log likelihood: -13955137
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 34
+INFO:lda:n_iter: 200
+INFO:lda:<20> log likelihood: -13922478
+INFO:lda:<30> log likelihood: -13759271
+INFO:lda:<40> log likelihood: -13721828
+INFO:lda:<50> log likelihood: -13713263
+INFO:lda:<110> log likelihood: -16292842
+INFO:lda:<60> log likelihood: -13710182
+INFO:lda:<130> log likelihood: -12972784
+INFO:lda:<70> log likelihood: -13701634
+INFO:lda:<80> log likelihood: -13703121
+INFO:lda:<70> log likelihood: -15085262
+INFO:lda:<90> log likelihood: -13703716
+INFO:lda:<100> log likelihood: -13706099
+INFO:lda:<0> log likelihood: -19412802
+INFO:lda:<110> log likelihood: -13704198
+INFO:lda:<120> log likelihood: -13708473
+INFO:lda:<120> log likelihood: -16291389
+INFO:lda:<130> log likelihood: -13707637
+INFO:lda:<10> log likelihood: -15678847
+INFO:lda:<140> log likelihood: -12960540
+INFO:lda:<140> log likelihood: -13707739
+INFO:lda:<150> log likelihood: -13709094
+INFO:lda:<20> log likelihood: -14268502
+INFO:lda:<160> log likelihood: -13710921
+INFO:lda:<80> log likelihood: -15079651
+INFO:lda:<170> log likelihood: -13709706
+INFO:lda:<30> log likelihood: -14088587
+INFO:lda:<180> log likelihood: -13710937
+INFO:lda:<130> log likelihood: -16298524
+INFO:lda:<190> log likelihood: -13713641
+INFO:lda:<150> log likelihood: -12947955
+INFO:lda:<40> log likelihood: -14018264
+INFO:lda:<199> log likelihood: -13713425
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 14
+INFO:lda:n_iter: 200
+INFO:lda:<50> log likelihood: -13990993
+INFO:lda:<90> log likelihood: -15082407
+INFO:lda:<60> log likelihood: -13978521
+INFO:lda:<160> log likelihood: -12933184
+INFO:lda:<140> log likelihood: -16292891
+INFO:lda:<70> log likelihood: -13970464
+INFO:lda:<80> log likelihood: -13967337
+INFO:lda:<0> log likelihood: -17252778
+INFO:lda:<10> log likelihood: -14566614
+INFO:lda:<90> log likelihood: -13964763
+INFO:lda:<20> log likelihood: -13879482
+INFO:lda:<170> log likelihood: -12919164
+INFO:lda:<100> log likelihood: -15082212
+INFO:lda:<150> log likelihood: -16296806
+INFO:lda:<30> log likelihood: -13778308
+INFO:lda:<100> log likelihood: -13963708
+INFO:lda:<40> log likelihood: -13747445
+INFO:lda:<50> log likelihood: -13728805
+INFO:lda:<60> log likelihood: -13722713
+INFO:lda:<110> log likelihood: -13963888
+INFO:lda:<70> log likelihood: -13722048
+INFO:lda:<80> log likelihood: -13724593
+INFO:lda:<120> log likelihood: -13961514
+INFO:lda:<180> log likelihood: -12913127
+INFO:lda:<90> log likelihood: -13724696
+INFO:lda:<160> log likelihood: -16292146
+INFO:lda:<100> log likelihood: -13723269
+INFO:lda:<110> log likelihood: -15077327
+INFO:lda:<130> log likelihood: -13962262
+INFO:lda:<110> log likelihood: -13724824
+INFO:lda:<120> log likelihood: -13726796
+INFO:lda:<140> log likelihood: -13961768
+INFO:lda:<130> log likelihood: -13726316
+INFO:lda:<140> log likelihood: -13720029
+INFO:lda:<190> log likelihood: -12905358
+INFO:lda:<150> log likelihood: -13957195
+INFO:lda:<150> log likelihood: -13723911
+INFO:lda:<170> log likelihood: -16287070
+INFO:lda:<160> log likelihood: -13720824
+INFO:lda:<170> log likelihood: -13715891
+INFO:lda:<160> log likelihood: -13958984
+INFO:lda:<120> log likelihood: -15078998
+INFO:lda:<180> log likelihood: -13712783
+INFO:lda:<190> log likelihood: -13720603
+INFO:lda:<170> log likelihood: -13953792
+INFO:lda:<199> log likelihood: -13714580
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 14
+INFO:lda:n_iter: 200
+INFO:lda:<199> log likelihood: -12897205
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 97
+INFO:lda:n_iter: 200
+INFO:lda:<180> log likelihood: -13953130
+INFO:lda:<180> log likelihood: -16291450
+INFO:lda:<190> log likelihood: -13950562
+INFO:lda:<130> log likelihood: -15082945
+INFO:lda:<199> log likelihood: -13945583
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 34
+INFO:lda:n_iter: 200
+INFO:lda:<190> log likelihood: -16292344
+INFO:lda:<0> log likelihood: -17252778
+INFO:lda:<0> log likelihood: -23579010
+INFO:lda:<10> log likelihood: -14691573
+INFO:lda:<20> log likelihood: -13952313
+INFO:lda:<30> log likelihood: -13816454
+INFO:lda:<140> log likelihood: -15079144
+INFO:lda:<40> log likelihood: -13779516
+INFO:lda:<50> log likelihood: -13767234
+INFO:lda:<0> log likelihood: -19412802
+INFO:lda:<60> log likelihood: -13758356
+INFO:lda:<199> log likelihood: -16288877
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 104
+INFO:lda:n_iter: 200
+INFO:lda:<70> log likelihood: -13759673
+INFO:lda:<10> log likelihood: -14811406
+INFO:lda:<80> log likelihood: -13756248
+INFO:lda:<10> log likelihood: -15510483
+INFO:lda:<90> log likelihood: -13752558
+INFO:lda:<100> log likelihood: -13752727
+INFO:lda:<20> log likelihood: -14268661
+INFO:lda:<110> log likelihood: -13752542
+INFO:lda:<150> log likelihood: -15084553
+INFO:lda:<120> log likelihood: -13749819
+INFO:lda:<30> log likelihood: -14132431
+INFO:lda:<130> log likelihood: -13753787
+INFO:lda:<20> log likelihood: -13763130
+INFO:lda:<140> log likelihood: -13752424
+INFO:lda:<40> log likelihood: -14074159
+INFO:lda:<150> log likelihood: -13755995
+INFO:lda:<0> log likelihood: -21422543
+INFO:lda:<160> log likelihood: -13753884
+INFO:lda:<170> log likelihood: -13751021
+INFO:lda:<50> log likelihood: -14049557
+INFO:lda:<180> log likelihood: -13749983
+INFO:lda:<190> log likelihood: -13755608
+INFO:lda:<160> log likelihood: -15081169
+INFO:lda:<60> log likelihood: -14034841
+INFO:lda:<30> log likelihood: -13406352
+INFO:lda:<199> log likelihood: -13751304
+INFO:lda:<70> log likelihood: -14028053
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 147
+INFO:lda:n_iter: 200
+INFO:lda:<10> log likelihood: -18640865
+INFO:lda:<80> log likelihood: -14017907
+INFO:lda:<40> log likelihood: -13245526
+INFO:lda:<90> log likelihood: -14011904
+INFO:lda:<170> log likelihood: -15079815
+INFO:lda:<100> log likelihood: -14003150
+INFO:lda:<20> log likelihood: -16783523
+INFO:lda:<110> log likelihood: -13992470
+INFO:lda:<0> log likelihood: -22804608
+INFO:lda:<50> log likelihood: -13143203
+INFO:lda:<120> log likelihood: -13978548
+INFO:lda:<180> log likelihood: -15081437
+INFO:lda:<130> log likelihood: -13971288
+INFO:lda:<30> log likelihood: -16482474
+INFO:lda:<140> log likelihood: -13961117
+INFO:lda:<60> log likelihood: -13081765
+INFO:lda:<150> log likelihood: -13951750
+INFO:lda:<10> log likelihood: -16847015
+INFO:lda:<40> log likelihood: -16410254
+INFO:lda:<160> log likelihood: -13945198
+INFO:lda:<190> log likelihood: -15084533
+INFO:lda:<70> log likelihood: -13035715
+INFO:lda:<170> log likelihood: -13947195
+INFO:lda:<180> log likelihood: -13943347
+INFO:lda:<50> log likelihood: -16381790
+INFO:lda:<190> log likelihood: -13943178
+INFO:lda:<80> log likelihood: -13000141
+INFO:lda:<199> log likelihood: -15086097
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 116
+INFO:lda:n_iter: 200
+INFO:lda:<20> log likelihood: -15607394
+INFO:lda:<199> log likelihood: -13944110
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 34
+INFO:lda:n_iter: 200
+INFO:lda:<60> log likelihood: -16365036
+INFO:lda:<90> log likelihood: -12972585
+INFO:lda:<0> log likelihood: -22347374
+INFO:lda:<0> log likelihood: -19412802
+INFO:lda:<30> log likelihood: -15530466
+INFO:lda:<70> log likelihood: -16356270
+INFO:lda:<100> log likelihood: -12947598
+INFO:lda:<10> log likelihood: -15650701
+INFO:lda:<20> log likelihood: -14362202
+INFO:lda:<30> log likelihood: -14173235
+INFO:lda:<10> log likelihood: -17163715
+INFO:lda:<80> log likelihood: -16352594
+INFO:lda:<110> log likelihood: -12923827
+INFO:lda:<40> log likelihood: -14120212
+INFO:lda:<40> log likelihood: -15494320
+INFO:lda:<50> log likelihood: -14092169
+INFO:lda:<60> log likelihood: -14076303
+INFO:lda:<120> log likelihood: -12907948
+INFO:lda:<90> log likelihood: -16352383
+INFO:lda:<20> log likelihood: -15304137
+INFO:lda:<70> log likelihood: -14067536
+INFO:lda:<80> log likelihood: -14064011
+INFO:lda:<130> log likelihood: -12894193
+INFO:lda:<90> log likelihood: -14054026
+INFO:lda:<50> log likelihood: -15475169
+INFO:lda:<100> log likelihood: -16341074
+INFO:lda:<30> log likelihood: -15189325
+INFO:lda:<100> log likelihood: -14046058
+INFO:lda:<110> log likelihood: -14026687
+INFO:lda:<140> log likelihood: -12883607
+INFO:lda:<110> log likelihood: -16346146
+INFO:lda:<120> log likelihood: -13988305
+INFO:lda:<130> log likelihood: -13967284
+INFO:lda:<40> log likelihood: -15118172
+INFO:lda:<60> log likelihood: -15465548
+INFO:lda:<140> log likelihood: -13954898
+INFO:lda:<150> log likelihood: -12873011
+INFO:lda:<120> log likelihood: -16340407
+INFO:lda:<150> log likelihood: -13945633
+INFO:lda:<160> log likelihood: -13942085
+INFO:lda:<50> log likelihood: -15088611
+INFO:lda:<160> log likelihood: -12863929
+INFO:lda:<170> log likelihood: -13942686
+INFO:lda:<130> log likelihood: -16334796
+INFO:lda:<180> log likelihood: -13941394
+INFO:lda:<70> log likelihood: -15466065
+INFO:lda:<190> log likelihood: -13936841
+INFO:lda:<170> log likelihood: -12854520
+INFO:lda:<199> log likelihood: -13941148
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 34
+INFO:lda:n_iter: 200
+INFO:lda:<60> log likelihood: -15080280
+INFO:lda:<140> log likelihood: -16332699
+INFO:lda:<180> log likelihood: -12848813
+INFO:lda:<80> log likelihood: -15456145
+INFO:lda:<70> log likelihood: -15078542
+INFO:lda:<150> log likelihood: -16332787
+INFO:lda:<0> log likelihood: -19412802
+INFO:lda:<190> log likelihood: -12846269
+INFO:lda:<10> log likelihood: -15740683
+INFO:lda:<20> log likelihood: -14414248
+INFO:lda:<160> log likelihood: -16330997
+INFO:lda:<80> log likelihood: -15085512
+INFO:lda:<30> log likelihood: -14168217
+INFO:lda:<90> log likelihood: -15452046
+INFO:lda:<199> log likelihood: -12838769
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 97
+INFO:lda:n_iter: 200
+INFO:lda:<40> log likelihood: -14072878
+INFO:lda:<50> log likelihood: -14006266
+INFO:lda:<170> log likelihood: -16329456
+INFO:lda:<60> log likelihood: -13976792
+INFO:lda:<90> log likelihood: -15086365
+INFO:lda:<70> log likelihood: -13968078
+INFO:lda:<100> log likelihood: -15451026
+INFO:lda:<0> log likelihood: -23579010
+INFO:lda:<80> log likelihood: -13953950
+INFO:lda:<180> log likelihood: -16325190
+INFO:lda:<90> log likelihood: -13951651
+INFO:lda:<100> log likelihood: -15083176
+INFO:lda:<100> log likelihood: -13942433
+INFO:lda:<10> log likelihood: -14776085
+INFO:lda:<110> log likelihood: -13943323
+INFO:lda:<190> log likelihood: -16325678
+INFO:lda:<110> log likelihood: -15453000
+INFO:lda:<120> log likelihood: -13942930
+INFO:lda:<20> log likelihood: -13778011
+INFO:lda:<130> log likelihood: -13941225
+INFO:lda:<110> log likelihood: -15079076
+INFO:lda:<199> log likelihood: -16328448
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 104
+INFO:lda:n_iter: 200
+INFO:lda:<140> log likelihood: -13941518
+INFO:lda:<150> log likelihood: -13936145
+INFO:lda:<30> log likelihood: -13472029
+INFO:lda:<160> log likelihood: -13936206
+INFO:lda:<120> log likelihood: -15444930
+INFO:lda:<120> log likelihood: -15082307
+INFO:lda:<170> log likelihood: -13935207
+INFO:lda:<0> log likelihood: -21422543
+INFO:lda:<180> log likelihood: -13932912
+INFO:lda:<40> log likelihood: -13328741
+INFO:lda:<190> log likelihood: -13937973
+INFO:lda:<199> log likelihood: -13937021
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 34
+INFO:lda:n_iter: 200
+INFO:lda:<130> log likelihood: -15079184
+INFO:lda:<10> log likelihood: -18397620
+INFO:lda:<130> log likelihood: -15449687
+INFO:lda:<50> log likelihood: -13239811
+INFO:lda:<140> log likelihood: -15082002
+INFO:lda:<20> log likelihood: -16639496
+INFO:lda:<60> log likelihood: -13164804
+INFO:lda:<0> log likelihood: -19412802
+INFO:lda:<10> log likelihood: -15683430
+INFO:lda:<140> log likelihood: -15451131
+INFO:lda:<20> log likelihood: -14239712
+INFO:lda:<30> log likelihood: -16414229
+INFO:lda:<70> log likelihood: -13103430
+INFO:lda:<150> log likelihood: -15085126
+INFO:lda:<30> log likelihood: -14060434
+INFO:lda:<40> log likelihood: -14025903
+INFO:lda:<50> log likelihood: -14012505
+INFO:lda:<80> log likelihood: -13060487
+INFO:lda:<40> log likelihood: -16367238
+INFO:lda:<150> log likelihood: -15447068
+INFO:lda:<60> log likelihood: -14001480
+INFO:lda:<160> log likelihood: -15081764
+INFO:lda:<70> log likelihood: -13987293
+INFO:lda:<90> log likelihood: -13030181
+INFO:lda:<50> log likelihood: -16350611
+INFO:lda:<80> log likelihood: -13975576
+INFO:lda:<90> log likelihood: -13968930
+INFO:lda:<170> log likelihood: -15081786
+INFO:lda:<100> log likelihood: -13967229
+INFO:lda:<160> log likelihood: -15450282
+INFO:lda:<100> log likelihood: -13005268
+INFO:lda:<60> log likelihood: -16334251
+INFO:lda:<110> log likelihood: -13957749
+INFO:lda:<120> log likelihood: -13958455
+INFO:lda:<180> log likelihood: -15083985
+INFO:lda:<110> log likelihood: -12990479
+INFO:lda:<130> log likelihood: -13957698
+INFO:lda:<70> log likelihood: -16331120
+INFO:lda:<140> log likelihood: -13959556
+INFO:lda:<170> log likelihood: -15449425
+INFO:lda:<150> log likelihood: -13952442
+INFO:lda:<120> log likelihood: -12980184
+INFO:lda:<160> log likelihood: -13952729
+INFO:lda:<190> log likelihood: -15080791
+INFO:lda:<80> log likelihood: -16324020
+INFO:lda:<170> log likelihood: -13948647
+INFO:lda:<180> log likelihood: -13947041
+INFO:lda:<130> log likelihood: -12968601
+INFO:lda:<180> log likelihood: -15450328
+INFO:lda:<190> log likelihood: -13944465
+INFO:lda:<90> log likelihood: -16320909
+INFO:lda:<199> log likelihood: -15087277
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 116
+INFO:lda:n_iter: 200
+INFO:lda:<199> log likelihood: -13942483
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 34
+INFO:lda:n_iter: 200
+INFO:lda:<140> log likelihood: -12964455
+INFO:lda:<100> log likelihood: -16319871
+INFO:lda:<190> log likelihood: -15453327
+INFO:lda:<0> log likelihood: -22347374
+INFO:lda:<150> log likelihood: -12954825
+INFO:lda:<0> log likelihood: -19412802
+INFO:lda:<110> log likelihood: -16312600
+INFO:lda:<10> log likelihood: -15664683
+INFO:lda:<20> log likelihood: -14197231
+INFO:lda:<160> log likelihood: -12945229
+INFO:lda:<10> log likelihood: -17187692
+INFO:lda:<30> log likelihood: -14009095
+INFO:lda:<199> log likelihood: -15456726
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 147
+INFO:lda:n_iter: 200
+INFO:lda:<120> log likelihood: -16309119
+INFO:lda:<40> log likelihood: -13977564
+INFO:lda:<170> log likelihood: -12946286
+INFO:lda:<50> log likelihood: -13961187
+INFO:lda:<60> log likelihood: -13952100
+INFO:lda:<20> log likelihood: -15546156
+INFO:lda:<130> log likelihood: -16299287
+INFO:lda:<70> log likelihood: -13949955
+INFO:lda:<180> log likelihood: -12940403
+INFO:lda:<0> log likelihood: -22804608
+INFO:lda:<80> log likelihood: -13944809
+INFO:lda:<90> log likelihood: -13937981
+INFO:lda:<140> log likelihood: -16308593
+INFO:lda:<30> log likelihood: -15366776
+INFO:lda:<100> log likelihood: -13930947
+INFO:lda:<190> log likelihood: -12937133
+INFO:lda:<110> log likelihood: -13926471
+INFO:lda:<120> log likelihood: -13930382
+INFO:lda:<10> log likelihood: -16832577
+INFO:lda:<150> log likelihood: -16299422
+INFO:lda:<199> log likelihood: -12936318
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 97
+INFO:lda:n_iter: 200
+INFO:lda:<130> log likelihood: -13930409
+INFO:lda:<40> log likelihood: -15253136
+INFO:lda:<140> log likelihood: -13928644
+INFO:lda:<150> log likelihood: -13933565
+INFO:lda:<160> log likelihood: -16301409
+INFO:lda:<160> log likelihood: -13928593
+INFO:lda:<20> log likelihood: -15569581
+INFO:lda:<50> log likelihood: -15190494
+INFO:lda:<0> log likelihood: -23579010
+INFO:lda:<170> log likelihood: -13929107
+INFO:lda:<180> log likelihood: -13926402
+INFO:lda:<170> log likelihood: -16306219
+INFO:lda:<190> log likelihood: -13926042
+INFO:lda:<10> log likelihood: -14780892
+INFO:lda:<60> log likelihood: -15157842
+INFO:lda:<199> log likelihood: -13928006
+INFO:lda:<30> log likelihood: -15488552
+INFO:lda:<180> log likelihood: -16301269
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 94
+INFO:lda:n_iter: 200
+INFO:lda:<20> log likelihood: -13748562
+INFO:lda:<70> log likelihood: -15141873
+INFO:lda:<190> log likelihood: -16305836
+INFO:lda:<0> log likelihood: -20721998
+INFO:lda:<30> log likelihood: -13403385
+INFO:lda:<40> log likelihood: -15424663
+INFO:lda:<199> log likelihood: -16297689
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 104
+INFO:lda:n_iter: 200
+INFO:lda:<80> log likelihood: -15133002
+INFO:lda:<10> log likelihood: -16500029
+INFO:lda:<40> log likelihood: -13255831
+INFO:lda:<50> log likelihood: -15404450
+INFO:lda:<90> log likelihood: -15128562
+INFO:lda:<0> log likelihood: -21422543
+INFO:lda:<50> log likelihood: -13177971
+INFO:lda:<20> log likelihood: -15283286
+INFO:lda:<60> log likelihood: -13131305
+INFO:lda:<10> log likelihood: -18653579
+INFO:lda:<30> log likelihood: -14927769
+INFO:lda:<100> log likelihood: -15133425
+INFO:lda:<60> log likelihood: -15402656
+INFO:lda:<70> log likelihood: -13082397
+INFO:lda:<20> log likelihood: -16803187
+INFO:lda:<40> log likelihood: -14728990
+INFO:lda:<110> log likelihood: -15130830
+INFO:lda:<70> log likelihood: -15400205
+INFO:lda:<80> log likelihood: -13046013
+INFO:lda:<30> log likelihood: -16474845
+INFO:lda:<50> log likelihood: -14603851
+INFO:lda:<120> log likelihood: -15125734
+INFO:lda:<90> log likelihood: -13016539
+INFO:lda:<40> log likelihood: -16398825
+INFO:lda:<60> log likelihood: -14515085
+INFO:lda:<80> log likelihood: -15402712
+INFO:lda:<100> log likelihood: -12992368
+INFO:lda:<130> log likelihood: -15133256
+INFO:lda:<50> log likelihood: -16371996
+INFO:lda:<70> log likelihood: -14461817
+INFO:lda:<110> log likelihood: -12976162
+INFO:lda:<90> log likelihood: -15397511
+INFO:lda:<60> log likelihood: -16361067
+INFO:lda:<80> log likelihood: -14424667
+INFO:lda:<140> log likelihood: -15132779
+INFO:lda:<120> log likelihood: -12964516
+INFO:lda:<90> log likelihood: -14391741
+INFO:lda:<70> log likelihood: -16356393
+INFO:lda:<150> log likelihood: -15131073
+INFO:lda:<100> log likelihood: -15400600
+INFO:lda:<130> log likelihood: -12949333
+INFO:lda:<100> log likelihood: -14373741
+INFO:lda:<80> log likelihood: -16350277
+INFO:lda:<140> log likelihood: -12940806
+INFO:lda:<160> log likelihood: -15128774
+INFO:lda:<110> log likelihood: -14360320
+INFO:lda:<90> log likelihood: -16338762
+INFO:lda:<110> log likelihood: -15395698
+INFO:lda:<150> log likelihood: -12930350
+INFO:lda:<170> log likelihood: -15127400
+INFO:lda:<120> log likelihood: -14344979
+INFO:lda:<100> log likelihood: -16334156
+INFO:lda:<160> log likelihood: -12918803
+INFO:lda:<120> log likelihood: -15395445
+INFO:lda:<130> log likelihood: -14332720
+INFO:lda:<180> log likelihood: -15130640
+INFO:lda:<110> log likelihood: -16330296
+INFO:lda:<170> log likelihood: -12914054
+INFO:lda:<140> log likelihood: -14318063
+INFO:lda:<120> log likelihood: -16329744
+INFO:lda:<130> log likelihood: -15398573
+INFO:lda:<180> log likelihood: -12904356
+INFO:lda:<190> log likelihood: -15129054
+INFO:lda:<150> log likelihood: -14313440
+INFO:lda:<130> log likelihood: -16321430
+INFO:lda:<190> log likelihood: -12897423
+INFO:lda:<199> log likelihood: -15128345
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 116
+INFO:lda:n_iter: 200
+INFO:lda:<140> log likelihood: -15392502
+INFO:lda:<160> log likelihood: -14317660
+INFO:lda:<140> log likelihood: -16326034
+INFO:lda:<199> log likelihood: -12895496
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 97
+INFO:lda:n_iter: 200
+INFO:lda:<0> log likelihood: -22347374
+INFO:lda:<170> log likelihood: -14317652
+INFO:lda:<150> log likelihood: -16310079
+INFO:lda:<150> log likelihood: -15397553
+INFO:lda:<0> log likelihood: -23579010
+INFO:lda:<180> log likelihood: -14301483
+INFO:lda:<160> log likelihood: -16311592
+INFO:lda:<10> log likelihood: -16964173
+INFO:lda:<10> log likelihood: -14800280
+INFO:lda:<160> log likelihood: -15394325
+INFO:lda:<190> log likelihood: -14297928
+INFO:lda:<170> log likelihood: -16305867
+INFO:lda:<20> log likelihood: -15321603
+INFO:lda:<20> log likelihood: -13822769
+INFO:lda:<199> log likelihood: -14297799
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 94
+INFO:lda:n_iter: 200
+INFO:lda:<180> log likelihood: -16302519
+INFO:lda:<30> log likelihood: -13462784
+INFO:lda:<170> log likelihood: -15394886
+INFO:lda:<30> log likelihood: -15212552
+INFO:lda:<190> log likelihood: -16298437
+INFO:lda:<0> log likelihood: -20721998
+INFO:lda:<40> log likelihood: -13311950
+INFO:lda:<40> log likelihood: -15173719
+INFO:lda:<180> log likelihood: -15397518
+INFO:lda:<199> log likelihood: -16296232
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 104
+INFO:lda:n_iter: 200
+INFO:lda:<50> log likelihood: -13220380
+INFO:lda:<10> log likelihood: -16465815
+INFO:lda:<50> log likelihood: -15152116
+INFO:lda:<60> log likelihood: -13144260
+INFO:lda:<20> log likelihood: -15278327
+INFO:lda:<0> log likelihood: -21422543
+INFO:lda:<190> log likelihood: -15401485
+INFO:lda:<70> log likelihood: -13080276
+INFO:lda:<60> log likelihood: -15140260
+INFO:lda:<30> log likelihood: -14925528
+INFO:lda:<10> log likelihood: -18582327
+INFO:lda:<80> log likelihood: -13033857
+INFO:lda:<199> log likelihood: -15396254
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 147
+INFO:lda:n_iter: 200
+INFO:lda:<40> log likelihood: -14738160
+INFO:lda:<20> log likelihood: -16726390
+INFO:lda:<70> log likelihood: -15125359
+INFO:lda:<90> log likelihood: -12991502
+INFO:lda:<50> log likelihood: -14611599
+INFO:lda:<30> log likelihood: -16433399
+INFO:lda:<0> log likelihood: -22804608
+INFO:lda:<80> log likelihood: -15124730
+INFO:lda:<100> log likelihood: -12967115
+INFO:lda:<60> log likelihood: -14522856
+INFO:lda:<40> log likelihood: -16372395
+INFO:lda:<110> log likelihood: -12948423
+INFO:lda:<90> log likelihood: -15124198
+INFO:lda:<10> log likelihood: -16974407
+INFO:lda:<70> log likelihood: -14478851
+INFO:lda:<50> log likelihood: -16332700
+INFO:lda:<120> log likelihood: -12936870
+INFO:lda:<100> log likelihood: -15123301
+INFO:lda:<80> log likelihood: -14437006
+INFO:lda:<60> log likelihood: -16316667
+INFO:lda:<20> log likelihood: -15587477
+INFO:lda:<130> log likelihood: -12921423
+INFO:lda:<90> log likelihood: -14410372
+INFO:lda:<110> log likelihood: -15116645
+INFO:lda:<70> log likelihood: -16321776
+INFO:lda:<140> log likelihood: -12913462
+INFO:lda:<30> log likelihood: -15484361
+INFO:lda:<100> log likelihood: -14382072
+INFO:lda:<80> log likelihood: -16308430
+INFO:lda:<120> log likelihood: -15111603
+INFO:lda:<150> log likelihood: -12904314
+INFO:lda:<110> log likelihood: -14364590
+INFO:lda:<90> log likelihood: -16303091
+INFO:lda:<160> log likelihood: -12895352
+INFO:lda:<40> log likelihood: -15464347
+INFO:lda:<130> log likelihood: -15110593
+INFO:lda:<120> log likelihood: -14352060
+INFO:lda:<100> log likelihood: -16297148
+INFO:lda:<170> log likelihood: -12889096
+INFO:lda:<140> log likelihood: -15111296
+INFO:lda:<130> log likelihood: -14338635
+INFO:lda:<50> log likelihood: -15458372
+INFO:lda:<110> log likelihood: -16292195
+INFO:lda:<180> log likelihood: -12882081
+INFO:lda:<140> log likelihood: -14329408
+INFO:lda:<150> log likelihood: -15109461
+INFO:lda:<190> log likelihood: -12875770
+INFO:lda:<120> log likelihood: -16290586
+INFO:lda:<60> log likelihood: -15455046
+INFO:lda:<150> log likelihood: -14314842
+INFO:lda:<199> log likelihood: -12869741
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 97
+INFO:lda:n_iter: 200
+INFO:lda:<130> log likelihood: -16297404
+INFO:lda:<160> log likelihood: -15108800
+INFO:lda:<160> log likelihood: -14311775
+INFO:lda:<70> log likelihood: -15452522
+INFO:lda:<140> log likelihood: -16294363
+INFO:lda:<170> log likelihood: -15104623
+INFO:lda:<0> log likelihood: -23579010
+INFO:lda:<170> log likelihood: -14306912
+INFO:lda:<150> log likelihood: -16291446
+INFO:lda:<10> log likelihood: -14823221
+INFO:lda:<180> log likelihood: -15098899
+INFO:lda:<80> log likelihood: -15452602
+INFO:lda:<180> log likelihood: -14302811
+INFO:lda:<160> log likelihood: -16290533
+INFO:lda:<20> log likelihood: -13777011
+INFO:lda:<190> log likelihood: -14294324
+INFO:lda:<190> log likelihood: -15093670
+INFO:lda:<170> log likelihood: -16291516
+INFO:lda:<90> log likelihood: -15450649
+INFO:lda:<30> log likelihood: -13430607
+INFO:lda:<199> log likelihood: -14294525
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 94
+INFO:lda:n_iter: 200
+INFO:lda:<199> log likelihood: -15079231
+INFO:lda:n_documents: 23871
+INFO:lda:vocab_size: 47123
+INFO:lda:n_words: 1482211
+INFO:lda:n_topics: 116
+INFO:lda:n_iter: 200
+INFO:lda:<180> log likelihood: -16290933
+INFO:lda:<40> log likelihood: -13274212
+INFO:lda:<100> log likelihood: -15451472
+INFO:lda:<50> log likelihood: -13185243
+INFO:lda:<190> log likelihood: -16291143

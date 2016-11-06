@@ -1,0 +1,44 @@
+None
+None
+None
+None
+[0, 1, 2, 3, 4]
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n3l2-14>
+Subject: Job 606939: <mpiexec -n 5 /share2/zyu9/miniconda/bin/python2.7 test.py> Done
+
+Job <mpiexec -n 5 /share2/zyu9/miniconda/bin/python2.7 test.py> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <4*n3l2-14>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <1*n3l2-10>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA/src> was used as the working directory.
+Started at Wed Nov  2 15:45:18 2016
+Results reported at Wed Nov  2 15:45:36 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 5 /share2/zyu9/miniconda/bin/python2.7 test.py
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :      0.40 sec.
+    Max Memory :         2 MB
+    Max Swap   :        35 MB
+
+    Max Processes  :         1
+    Max Threads    :         1
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/test.err.606939> for stderr output of this job.
+

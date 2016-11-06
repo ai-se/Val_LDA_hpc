@@ -1,0 +1,40 @@
+Ctrl-C caught... cleaning up processes
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2c1-4>
+Subject: Job 613779: <mpiexec -n 5 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp anime> Exited
+
+Job <mpiexec -n 5 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp anime> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <5*n2c1-4>, in queue <long>, as user <zyu9> in cluster <henry2>.
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA/src> was used as the working directory.
+Started at Sat Nov  5 19:57:57 2016
+Results reported at Sat Nov  5 20:47:24 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 5 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp anime
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with exit code 1.
+
+Resource usage summary:
+
+    CPU time   :      2.58 sec.
+    Max Memory :      2096 MB
+    Max Swap   :      6148 MB
+
+    Max Processes  :         9
+    Max Threads    :        65
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/anime.err.613779> for stderr output of this job.
+
