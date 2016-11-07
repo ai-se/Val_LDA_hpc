@@ -32,8 +32,6 @@ def exp(set):
             'term' : 6
         }
         dec,obj = differential_evolution(**kw)
-        for i in xrange(proc_num - 1):
-            comm.send("finished", dest=i + 1)
 
         untuned1 = LDA_tune(**kw)
         untuned1.dec=[100,0.1,0.01]
@@ -61,6 +59,9 @@ def exp(set):
         untuned200 = LDA_tune(**kw2)
         untuned200.dec=[200,0.1,0.01]
         obj200 = untuned200.getobj()
+	
+	for i in xrange(proc_num - 1):
+            comm.send("finished", dest=i + 1) 
 
         results={"tuned_train": obj, "tuned_dec": dec, "untuned100_train": obj1, "untuned200_train": obj3, "untuned100_test":obj100, "untuned200_test":obj200, "tuned_test": obj2}
 

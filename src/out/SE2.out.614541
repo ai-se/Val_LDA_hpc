@@ -1,0 +1,41 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l4-10>
+Subject: Job 614541: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE2> Exited
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE2> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <1*n2l4-10>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <6*n2l5-6>
+                            <3*n2l5-4>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Sun Nov  6 12:55:57 2016
+Results reported at Mon Nov  7 14:21:08 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE2
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with signal termination: Killed.
+
+Resource usage summary:
+
+    CPU time   :     60.80 sec.
+    Max Memory :      3939 MB
+    Max Swap   :     12219 MB
+
+    Max Processes  :        19
+    Max Threads    :       126
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/SE2.err.614541> for stderr output of this job.
+
