@@ -93,3 +93,18 @@ class LDA_tune(Model):
         self.obj = [jaccard(self.dec[0],topics,self.term)]
         return self.obj
 
+    def getobj_local(self):
+        if self.dec==self.lastdec:
+            return self.obj
+        self.dec[0]=int(self.dec[0])
+        self.model=Cross_exp([1,self.dec[0],1,1,self.dec[1],self.dec[2]])
+        self.model.load(self.file)
+        self.model.pre_lda()
+        topics=[]
+        for seq in self.sequence:
+            topics.extend(self.model.stability_score(seq))
+
+        self.obj = [jaccard(self.dec[0],topics,self.term)]
+        return self.obj, topics
+
+

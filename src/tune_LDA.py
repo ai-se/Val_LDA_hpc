@@ -86,7 +86,26 @@ def exp(set):
 
 
 
+def test(set):
+    file='/Users/zhe/PycharmProjects/Datasets/StackExchange/'+str(set)+'.txt'
+    tmp=Cross_exp()
+    tmp.load(file)
+    num = len(tmp.csr_mat)
+    x=range(num)
+    sequence=[]
+    for i in xrange(10):
+        shuffle(x)
+        sequence.append(x)
 
+    kw={
+        'filepath' : file,
+        'sequence' : sequence,
+        'term' : 6
+    }
+    untuned1 = LDA_tune(**kw)
+    untuned1.dec=[7, 0.8724171291071249, 0.9018122438660119]
+    obj1,topics = untuned1.getobj_local()
+    set_trace()
 
 
 

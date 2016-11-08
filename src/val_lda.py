@@ -191,12 +191,12 @@ def exp_hpc(method,set="SE1"):
     else:
         comm.send(result,dest=0)
 
-def exp(method,set="SE1"):
+def exp(method,set="SE0"):
     opt=[0,4000,1,1,0.1,0.01]
     if method=="SVM_SMOTE":
         opt=[0,4000,1,1,0.1,0.01]
-    if method=="LDA_SMOTE_sel":
-        opt=[1,200,1,1,0.1,0.01]
+    if method=="LDAl2_SMOTE":
+        opt=[1,7,1,1,0.8724171291071249, 0.9018122438660119]
     if method=="LDA_SMOTE":
         opt=[1,200,0,1,0.1,0.01]
     A=Cross_exp(opt)

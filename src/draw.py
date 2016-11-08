@@ -50,7 +50,8 @@ def draw():
 
 
 def draw_LDA():
-    sets = ['academia', 'apple', 'anime', 'android', 'scifi', 'SE0', 'SE1', 'SE2', 'SE3', 'SE4']
+    # sets = ['academia', 'apple', 'anime', 'android', 'scifi', 'SE0', 'SE1', 'SE2', 'SE3', 'SE4']
+    sets = ['anime', 'SE0']
     result={}
 
     for set in sets:
@@ -78,11 +79,11 @@ def draw_LDA():
 
         xtick = result.keys()
         plt.xticks(x, xtick, rotation=70)
-        plt.ylabel("F2 score")
+        plt.ylabel("Jaccard score")
         plt.xlabel("Datasets")
         plt.legend(bbox_to_anchor=(0.65, 1), loc=1, ncol=1, borderaxespad=0.)
         plt.savefig("../figure/LDA_tune_"+case+".eps")
-        plt.savefig("../figure/LDA_tune_"+case+".eps")
+        plt.savefig("../figure/LDA_tune_"+case+".png")
 
 if __name__ == "__main__":
     eval(cmd())
