@@ -6,4 +6,45 @@
 , Retries:  5, : Best solution: [161, 0.304550111893425, 0.520993882945821], ..++.!...!
 , Retries:  6, : Best solution: [8, 0.8350543104644903, 0.7832915827838203], ....!+...!
 , Retries:  7, : Best solution: [8, 0.8350543104644903, 0.5105725741411108], ..+....+.!
-, Retries:  8, : Best solution: [8, 0.8350543104644903, 0.5446210968301968], ..+.+...
+, Retries:  8, : Best solution: [8, 0.8350543104644903, 0.5446210968301968], ..+.+.....
+, Retries:  9, : Best solution: [8, 0.8350543104644903, 0.5446210968301968], ..+.......
+Best solution: [8, 0.8350543104644903, 0.5446210968301968],  obj: [1.0],  evals: 10 * 10
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l5-4>
+Subject: Job 615978: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp academia> Done
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp academia> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <7*n2l5-4>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <3*n2l6-7>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Mon Nov  7 14:21:42 2016
+Results reported at Tue Nov  8 11:04:38 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp academia
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   : 745359.00 sec.
+    Max Memory :      2085 MB
+    Max Swap   :     10530 MB
+
+    Max Processes  :        17
+    Max Threads    :       128
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/academia.err.615978> for stderr output of this job.
+

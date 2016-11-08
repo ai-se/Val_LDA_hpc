@@ -1,1 +1,43 @@
-, Retries:  0, : Best solution: [9, 0.9878734181483861, 0.26554299830573624], .!
+, Retries:  0, : Best solution: [9, 0.9878734181483861, 0.26554299830573624], .!...+...!
+, Retries:  1, : Best solution: [6, 0.8728472816717614, 0.43523782910879083], .+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l6-2>
+Subject: Job 615987: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE4> Exited
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE4> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <1*n2l6-2>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <1*n2l6-7>
+                            <5*n2l6-13>
+                            <3*n2l5-6>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Tue Nov  8 06:21:09 2016
+Results reported at Tue Nov  8 12:08:11 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE4
+------------------------------------------------------------
+
+TERM_OWNER: job killed by owner.
+Exited with signal termination: Killed.
+
+Resource usage summary:
+
+    CPU time   :     14.37 sec.
+    Max Memory :      3577 MB
+    Max Swap   :     11962 MB
+
+    Max Processes  :        21
+    Max Threads    :       132
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/SE4.err.615987> for stderr output of this job.
+
