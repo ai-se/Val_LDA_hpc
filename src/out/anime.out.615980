@@ -1,0 +1,50 @@
+, Retries:  0, : Best solution: [182, 0.41126011605166, 0.9123675780924964], !++.+..+..
+, Retries:  1, : Best solution: [182, 0.7196204741484458, 0.9123675780924964], ..+..+.+..
+, Retries:  2, : Best solution: [182, 0.7196204741484458, 0.9123675780924964], ..........
+, Retries:  3, : Best solution: [182, 0.7196204741484458, 0.9123675780924964], .+..++...+
+, Retries:  4, : Best solution: [182, 0.7196204741484458, 0.9123675780924964], ....!+!...
+, Retries:  5, : Best solution: [182, 0.41126011605166, 0.7734199066851859], ..+.++...!
+, Retries:  6, : Best solution: [117, 0.9832275627799821, 0.5661386312699201], !........+
+, Retries:  7, : Best solution: [117, 0.7196204741484458, 0.45574349008055337], .....+.!..
+, Retries:  8, : Best solution: [117, 0.00011297192261239264, 0.5470848758579289], .+...+...+
+, Retries:  9, : Best solution: [117, 0.00011297192261239264, 0.5470848758579289], +....+....
+Best solution: [117, 0.00011297192261239264, 0.5470848758579289],  obj: [1.0],  evals: 10 * 10
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l6-2>
+Subject: Job 615980: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp anime> Done
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp anime> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <6*n2l6-2>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <4*n2l5-6>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Mon Nov  7 14:21:42 2016
+Results reported at Tue Nov  8 03:35:48 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp anime
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   : 476044.28 sec.
+    Max Memory :      1639 MB
+    Max Swap   :     10050 MB
+
+    Max Processes  :        17
+    Max Threads    :       128
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/anime.err.615980> for stderr output of this job.
+

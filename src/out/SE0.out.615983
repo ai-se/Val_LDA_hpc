@@ -1,0 +1,51 @@
+, Retries:  0, : Best solution: [7, 0.8724171291071249, 0.9018122438660119], .....+..+.
+, Retries:  1, : Best solution: [7, 0.8724171291071249, 0.9018122438660119], ..+....+.+
+, Retries:  2, : Best solution: [7, 0.8724171291071249, 0.9018122438660119], .......++.
+, Retries:  3, : Best solution: [7, 0.8724171291071249, 0.9018122438660119], ......+...
+, Retries:  4, : Best solution: [7, 0.8724171291071249, 0.9018122438660119], ..++..+...
+, Retries:  5, : Best solution: [7, 0.8724171291071249, 0.9018122438660119], ......+...
+, Retries:  6, : Best solution: [7, 0.8724171291071249, 0.9018122438660119], ..........
+, Retries:  7, : Best solution: [7, 0.8724171291071249, 0.9018122438660119], ..........
+, Retries:  8, : Best solution: [7, 0.8724171291071249, 0.9018122438660119], .......+..
+, Retries:  9, : Best solution: [7, 0.8724171291071249, 0.9018122438660119], ...+......
+Best solution: [7, 0.8724171291071249, 0.9018122438660119],  obj: [1.0],  evals: 10 * 10
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l6-7>
+Subject: Job 615983: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE0> Done
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE0> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <1*n2l6-7>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <4*n2l5-6>
+                            <5*n2l6-13>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Mon Nov  7 14:22:31 2016
+Results reported at Tue Nov  8 06:20:20 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE0
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   : 574279.88 sec.
+    Max Memory :      3452 MB
+    Max Swap   :     11841 MB
+
+    Max Processes  :        19
+    Max Threads    :       130
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/SE0.err.615983> for stderr output of this job.
+
