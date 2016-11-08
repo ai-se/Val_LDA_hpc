@@ -25,7 +25,7 @@ def exp(set):
         sequence=[]
         for i in xrange(10):
             shuffle(x)
-            sequence.append(x)
+            sequence.append(x[:])
         kw={
             'filepath' : file,
             'sequence' : sequence,
@@ -43,7 +43,7 @@ def exp(set):
         sequence2=[]
         for i in xrange(10):
             shuffle(x)
-            sequence2.append(x)
+            sequence2.append(x[:])
         kw2= {
             'filepath' : file,
             'sequence' : sequence2,
@@ -95,7 +95,8 @@ def test(set):
     sequence=[]
     for i in xrange(10):
         shuffle(x)
-        sequence.append(x)
+        sequence.append(x[:])
+    set_trace()
 
     kw={
         'filepath' : file,
