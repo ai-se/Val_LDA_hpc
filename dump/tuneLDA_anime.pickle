@@ -21,7 +21,7 @@ NNNI-1
 I-1
 I0
 tp9
-bS'\x1c\xc7q\x1c\xc7q\xdc?'
+bS'UUUUUU\xd5?'
 p10
 tp11
 Rp12
@@ -55,15 +55,15 @@ Rp27
 asS'tuned_dec'
 p28
 (lp29
-I117
-aF0.00011297192261239264
-aF0.5470848758579289
+I5
+aF0.6203079263578617
+aF0.8467242272402636
 asS'untuned200_train'
 p30
 (lp31
 g3
 (g7
-S'UUUUUU\xd5?'
+S'\x1c\xc7q\x1c\xc7q\xdc?'
 p32
 tp33
 Rp34
@@ -72,7 +72,7 @@ p35
 (lp36
 g3
 (g7
-S'UUUUUU\xd5?'
+S'\x1c\xc7q\x1c\xc7q\xdc?'
 p37
 tp38
 Rp39

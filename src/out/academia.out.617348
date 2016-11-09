@@ -1,0 +1,51 @@
+, Retries:  0, : Best solution: [8, 0.448062530824358, 0.09180504426387393], !....++++.
+, Retries:  1, : Best solution: [8, 0.448062530824358, 0.5300287404435802], ..++.....+
+, Retries:  2, : Best solution: [8, 0.448062530824358, 0.5300287404435802], .++.......
+, Retries:  3, : Best solution: [8, 0.448062530824358, 0.5300287404435802], .!..+++.+!
+, Retries:  4, : Best solution: [8, 0.448062530824358, 0.5300287404435802], .!..+!...+
+, Retries:  5, : Best solution: [80, 0.43727167709331916, 0.5795193639900255], !.+!.+....
+, Retries:  6, : Best solution: [199, 0.3242301188565879, 0.42607646936471055], .+...+....
+, Retries:  7, : Best solution: [199, 0.3242301188565879, 0.42607646936471055], .+..+!....
+, Retries:  8, : Best solution: [8, 0.22158275060347343, 0.5300287404435802], .!.+.....!
+, Retries:  9, : Best solution: [8, 0.22158275060347343, 0.09354482808058148], !..!....!.
+Best solution: [110, 0.2446169566108244, 0.44951694698242006],  obj: [0.88888888888888884],  evals: 10 * 10
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2e6-10>
+Subject: Job 617348: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp academia> Done
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp academia> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <3*n2e6-10>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <3*n2e6-12>
+                            <4*n2e6-11>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Tue Nov  8 12:08:53 2016
+Results reported at Wed Nov  9 08:33:02 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp academia
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   : 734491.25 sec.
+    Max Memory :      2144 MB
+    Max Swap   :      9146 MB
+
+    Max Processes  :        19
+    Max Threads    :        90
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/academia.err.617348> for stderr output of this job.
+
