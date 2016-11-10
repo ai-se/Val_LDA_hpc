@@ -2,4 +2,47 @@
 , Retries:  1, : Best solution: [17, 0.6853412458495051, 0.3765408695763912], ....+..+++
 , Retries:  2, : Best solution: [17, 0.6853412458495051, 0.3765408695763912], ...+.+.+..
 , Retries:  3, : Best solution: [17, 0.6853412458495051, 0.3765408695763912], ...+...+..
-, Retries:  4, : Best solution: [17, 0.6853412458495051, 0.3765408695763912], +.+.....
+, Retries:  4, : Best solution: [17, 0.6853412458495051, 0.3765408695763912], +.+.......
+, Retries:  5, : Best solution: [17, 0.6853412458495051, 0.3765408695763912], ..!.!.!..+
+, Retries:  6, : Best solution: [17, 0.41801327555938467, 0.3871965679855607], ....+.....
+, Retries:  7, : Best solution: [17, 0.41801327555938467, 0.3871965679855607], ..++.....+
+, Retries:  8, : Best solution: [17, 0.41801327555938467, 0.3871965679855607], ...
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l5-1>
+Subject: Job 617351: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp android> Exited
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp android> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <8*n2l5-1>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <2*n2l6-13>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Tue Nov  8 12:08:53 2016
+Results reported at Thu Nov 10 04:09:15 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp android
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time   :    113.19 sec.
+    Max Memory :      3465 MB
+    Max Swap   :     11963 MB
+
+    Max Processes  :        17
+    Max Threads    :       128
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/android.err.617351> for stderr output of this job.
+
