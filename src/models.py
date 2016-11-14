@@ -53,8 +53,8 @@ class Model(object):
 "Models:"
 class LDA_tune(Model):
     def __init__(self,filepath="",sequence=[],term=6):
-        self.bottom=[5,0,0]
-        self.top=[200,1,1]
+        self.bottom=[100,0,0]
+        self.top=[100,1,1]
         self.decnum=3
         self.objnum=1
         self.dec=[0]*self.decnum

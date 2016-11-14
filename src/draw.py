@@ -51,13 +51,13 @@ def draw():
 
 def draw_LDA():
     # sets = ['academia', 'apple', 'anime', 'android', 'scifi', 'SE0', 'SE1', 'SE2', 'SE3', 'SE4']
-    sets = ['anime', 'SE0']
+    sets = ['anime', 'academia']
     result={}
 
     for set in sets:
         with open('../dump/tuneLDA_'+str(set)+".pickle",'r') as f:
             result[set]=pickle.load(f)
-
+    set_trace()
     font = {'family': 'normal',
             'weight': 'bold',
             'size': 20}

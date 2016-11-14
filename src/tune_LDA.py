@@ -104,7 +104,7 @@ def test(set):
         'term' : 6
     }
     untuned1 = LDA_tune(**kw)
-    untuned1.dec=[7, 0.8724171291071249, 0.9018122438660119]
+    untuned1.dec=[110, 0.2446169566108244, 0.44951694698242006]
     obj1,topics = untuned1.getobj_local()
     set_trace()
 
