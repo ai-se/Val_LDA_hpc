@@ -2,4 +2,46 @@
 , Retries:  1, : Best solution: [68, 0.34784361316720613, 0.64899702376868], .....!..!.
 , Retries:  2, : Best solution: [177, 0.29897180784233623, 0.7603179706805054], .+.+.++..+
 , Retries:  3, : Best solution: [177, 0.29897180784233623, 0.7603179706805054], !....+.!.!
-, Retries:  4, : Best solution: [138, 0.44372648603670917, 0.8964046415049874], ..+..
+, Retries:  4, : Best solution: [138, 0.44372648603670917, 0.8964046415049874], ..+..!+..!
+, Retries:  5, : Best solution: [138, 0.44372648603670917, 0.9827166884530102], ..+..+....
+, Retries:  6, : Best solution: [138, 0.44372648603670917, 0.9827166884530102], ++...
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l6-9>
+Subject: Job 617357: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE4> Exited
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE4> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <4*n2l6-9>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <4*n2l6-8>
+                            <2*n2l6-14>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Tue Nov  8 12:08:53 2016
+Results reported at Thu Nov 10 04:09:15 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE4
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time   :    102.49 sec.
+    Max Memory :      3606 MB
+    Max Swap   :     13604 MB
+
+    Max Processes  :        19
+    Max Threads    :       178
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/SE4.err.617357> for stderr output of this job.
+

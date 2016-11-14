@@ -1,4 +1,46 @@
 , Retries:  0, : Best solution: [167, 0.14546551312796996, 0.735490958637118], ..+.+.+...
 , Retries:  1, : Best solution: [167, 0.14546551312796996, 0.735490958637118], ..+....!+.
 , Retries:  2, : Best solution: [125, 0.2147528935610522, 0.9524777631484853], !+.++++...
-, Retries:  3, : Best solution: [125, 0.5558544084586187, 0.8860982509400144], +!!...+
+, Retries:  3, : Best solution: [125, 0.5558544084586187, 0.8860982509400144], +!!...+...
+, Retries:  4, : Best solution: [184, 0.0427874745534369, 0.9358872224042774], !...+....!
+, Retries:  5, : Best solution: [184, 0.2147528935610522, 0.9524777631484853], ...!+!.
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l6-6>
+Subject: Job 617356: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE3> Exited
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE3> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <4*n2l6-6>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <4*n2l5-14>
+                            <2*n2l5-12>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Tue Nov  8 12:08:53 2016
+Results reported at Thu Nov 10 04:08:55 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE3
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time   :     98.90 sec.
+    Max Memory :      3800 MB
+    Max Swap   :     12157 MB
+
+    Max Processes  :        19
+    Max Threads    :       130
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/SE3.err.617356> for stderr output of this job.
+

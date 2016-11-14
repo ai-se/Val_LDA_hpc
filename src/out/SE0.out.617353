@@ -1,4 +1,47 @@
 , Retries:  0, : Best solution: [11, 0.30652461646166396, 0.5373539977961916], ..+++....!
 , Retries:  1, : Best solution: [11, 0.30652461646166396, 0.3764953307056773], .!+.+.....
 , Retries:  2, : Best solution: [159, 0.4612185930658439, 0.6906998527992583], ......++..
-, Retries:  3, : Best solution: [159, 0.4612185930658439, 0.6906998527992583], 
+, Retries:  3, : Best solution: [159, 0.4612185930658439, 0.6906998527992583], .!.!!+!.!.
+, Retries:  4, : Best solution: [16, 0.09437536101596433, 0.5122429128689926], .!.+..!..!
+, Retries:  5, : Best solution: [11, 0.09437536101596433, 0.6315774026292782], ...++..+..
+, Retries:  6, : Best solution: [11, 0.09437536101596433, 0.6315774026292782], .+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l4-5>
+Subject: Job 617353: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE0> Exited
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE0> was submitted from host <login01.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <3*n2l4-5>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <3*n2l4-9>
+                            <4*n2l5-6>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Tue Nov  8 12:08:53 2016
+Results reported at Thu Nov 10 04:09:14 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE0
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time   :    107.32 sec.
+    Max Memory :      3899 MB
+    Max Swap   :     11437 MB
+
+    Max Processes  :        19
+    Max Threads    :       106
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/SE0.err.617353> for stderr output of this job.
+
