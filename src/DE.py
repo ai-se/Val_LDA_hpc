@@ -57,7 +57,7 @@ def differential_evolution(**kwargs):
         print("")
     print("Best solution: %s, " %xbest.dec,"obj: %s, " %xbest.getobj(),
           "evals: %s * %s" %(nb,maxtries))
-    return xbest.dec,xbest.getobj()
+    return xbest.dec,xbest.obj
 
 
 if __name__ == "__main__":
