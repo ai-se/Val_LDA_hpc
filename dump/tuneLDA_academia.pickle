@@ -39,7 +39,7 @@ p18
 (lp19
 g3
 (g7
-S'\x1c\xc7q\x1c\xc7q\xec?'
+S'9\x8e\xe38\x8e\xe3\xe8?'
 p20
 tp21
 Rp22
@@ -55,9 +55,9 @@ Rp27
 asS'tuned_dec'
 p28
 (lp29
-I110
-aF0.2446169566108244
-aF0.44951694698242006
+I100
+aF0.3340217903403837
+aF0.7038875393461858
 asS'untuned200_train'
 p30
 (lp31

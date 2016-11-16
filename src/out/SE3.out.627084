@@ -1,0 +1,48 @@
+, Retries:  0, : Best solution: [100, 0.31653070150053997, 0.6597637373033772], ..!+.!..!.
+, Retries:  1, : Best solution: [100, 0.8805639094091595, 0.7395214181594779], .+!!+..+.+
+, Retries:  2, : Best solution: [100, 0.8495747133591656, 0.9760764597078868], ..!....+..
+, Retries:  3, : Best solution: [100, 0.4446917088505118, 0.9959458195842192], ..!++.++.+
+, Retries:  4, : Best solution: [100, 0.8168544644793296, 0.9959458195842192], ..+.!...!+
+, Retries:  5, : Best solution: [100, 0.9309736702972272, 0.7395214181594779], .+..+..!..
+, Retries:  6, : Best solution: [100, 0.3988315745164932, 0.6154265519509214], !.......!.
+, Retries:  7, : Best solution: [100, 0.8495747133591656, 0.8959134209946144], ...!...+.
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l6-3>
+Subject: Job 627084: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE3> Exited
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE3> was submitted from host <login04.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <4*n2l6-3>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <4*n2l6-13>
+                            <2*n2l5-4>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Mon Nov 14 16:22:41 2016
+Results reported at Wed Nov 16 08:22:58 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE3
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time   :     87.84 sec.
+    Max Memory :      3411 MB
+    Max Swap   :     11784 MB
+
+    Max Processes  :        19
+    Max Threads    :       130
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/SE3.err.627084> for stderr output of this job.
+

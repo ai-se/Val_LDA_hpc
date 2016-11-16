@@ -1,0 +1,44 @@
+, Retries:  0, : Best solution: [100, 0.11648941067301322, 0.17659960164257338], ..+.......
+, Retries:  1, : Best solution: [100, 0.11648941067301322, 0.17659960164257338], ...++.....
+, Retries:  2, : Best solution: [100, 0.11648941067301322, 0.17659960164257338], ....+.....
+, Retries:  3, : Best solution: [100, 0.11648941067301322, 0.17659960164257338], .
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2d1-4>
+Subject: Job 627077: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp apple> Exited
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp apple> was submitted from host <login04.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <4*n2d1-4>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <4*n2d1-5>
+                            <2*n2d1-7>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Mon Nov 14 16:22:41 2016
+Results reported at Wed Nov 16 08:22:58 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp apple
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time   :    109.94 sec.
+    Max Memory :      5291 MB
+    Max Swap   :     12389 MB
+
+    Max Processes  :        19
+    Max Threads    :        90
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/apple.err.627077> for stderr output of this job.
+

@@ -1,0 +1,51 @@
+, Retries:  0, : Best solution: [100, 0.01236938765936113, 0.9276214144817774], .+...!+.++
+, Retries:  1, : Best solution: [100, 0.23319768719797163, 0.7339481310593874], !...!..+..
+, Retries:  2, : Best solution: [100, 0.3674945424996213, 0.7825866614589218], .+...+.+!.
+, Retries:  3, : Best solution: [100, 0.9577637256001853, 0.8488431994645468], ..+.+....+
+, Retries:  4, : Best solution: [100, 0.9577637256001853, 0.8488431994645468], .....!!..!
+, Retries:  5, : Best solution: [100, 0.36103175124012177, 0.8792030936261799], !.!..!!..+
+, Retries:  6, : Best solution: [100, 0.33521709678267486, 0.8428893529844818], +!!.++!..+
+, Retries:  7, : Best solution: [100, 0.33521709678267486, 0.8480119032607938], .+.!+.....
+, Retries:  8, : Best solution: [100, 0.01236938765936113, 0.7711525959171105], .+!!+.+..+
+, Retries:  9, : Best solution: [100, 0.01236938765936113, 0.6720031410435071], ..!..+!+!
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2c3-4>
+Subject: Job 627080: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp scifi> Exited
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp scifi> was submitted from host <login04.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <4*n2c3-4>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <2*n2c3-1>
+                            <2*n2c3-2>
+                            <2*n2c3-9>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Mon Nov 14 16:22:41 2016
+Results reported at Wed Nov 16 08:22:57 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp scifi
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time   :    131.06 sec.
+    Max Memory :      2230 MB
+    Max Swap   :     10584 MB
+
+    Max Processes  :        21
+    Max Threads    :       132
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/scifi.err.627080> for stderr output of this job.
+

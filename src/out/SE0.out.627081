@@ -1,0 +1,46 @@
+, Retries:  0, : Best solution: [100, 0.7401366308172436, 0.7804113416444101], ....+.....
+, Retries:  1, : Best solution: [100, 0.7401366308172436, 0.7804113416444101], ++..+.++..
+, Retries:  2, : Best solution: [100, 0.7401366308172436, 0.7804113416444101], ..+...++..
+, Retries:  3, : Best solution: [100, 0.7401366308172436, 0.7804113416444101], ..+...!.!.
+, Retries:  4, : Best solution: [100, 0.8045784456809523, 0.8982707581096172], .+.....!..
+, Retries:  5, : Best solution: [100, 0.45502030654862013, 0.6455942373473956], ...+...
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@n2l6-9>
+Subject: Job 627081: <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE0> Exited
+
+Job <mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE0> was submitted from host <login04.hpc.ncsu.edu> by user <zyu9> in cluster <henry2>.
+Job was executed on host(s) <4*n2l6-9>, in queue <single_chassis>, as user <zyu9> in cluster <henry2>.
+                            <4*n2l4-6>
+                            <2*n2l4-7>
+</home/zyu9> was used as the home directory.
+</home/zyu9/projects/Val_LDA_hpc/src> was used as the working directory.
+Started at Mon Nov 14 16:22:41 2016
+Results reported at Wed Nov 16 08:22:46 2016
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpiexec -n 10 /share2/zyu9/miniconda/bin/python2.7 tune_LDA.py exp SE0
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time   :     98.94 sec.
+    Max Memory :      3233 MB
+    Max Swap   :     10801 MB
+
+    Max Processes  :        19
+    Max Threads    :       106
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <./err/SE0.err.627081> for stderr output of this job.
+
